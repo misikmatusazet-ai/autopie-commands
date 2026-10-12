@@ -8,7 +8,7 @@ This guide is the authoring reference for humans and coding agents. Treat the
 current manifests and `tools/validate-manifests.py` as the source of truth. The
 JSON files are generated artifacts or legacy import data; author new recipes as
 YAML.
- 
+  
 ## Contents
 
 - [Repository layout](#repository-layout)
